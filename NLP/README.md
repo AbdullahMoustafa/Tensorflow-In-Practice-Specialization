@@ -1,4 +1,4 @@
-# This is the third course tutorials about Natural language processing.
+# Natural language processing tutorials.
 First week - Explore the BBC news archive
 For this exercise get the BBC text archive.
 1- tokenize the dataset,
