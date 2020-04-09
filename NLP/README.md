@@ -20,3 +20,4 @@ the embedding projector:  https://projector.tensorflow.org/
 4th week Generate/ predict word "poetry"
 
  you’ll take a corpus of Shakespeare sonnets, and use them to train a model. Then, see if that model can create poetry!
+ poetry generator project
