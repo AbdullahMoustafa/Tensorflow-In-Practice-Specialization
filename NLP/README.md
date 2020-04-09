@@ -7,7 +7,7 @@
 . create new sets of words using their embeddings!
 _________________________________________________________________________________________________________________________________
 
-# 1st week - Explore the BBC news archive
+# # 1st week - Explore the BBC news archive
 For this exercise get the BBC text archive.
 1- tokenize the dataset,
 2- removing common stopwords.
