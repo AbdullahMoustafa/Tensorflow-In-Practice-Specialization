@@ -1,4 +1,11 @@
 # Natural language processing tutorials.
+1st | 2nd | 3rd week
+. Text classification as BBC news and sercastic.
+
+4th week
+. predict the most common word that comes next in the sequence
+. create new sets of words using their embeddings!
+
 First week - Explore the BBC news archive
 For this exercise get the BBC text archive.
 1- tokenize the dataset,
