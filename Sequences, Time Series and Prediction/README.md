@@ -11,7 +11,7 @@ Once you have your series, you’ll create a DNN to predict values for that seri
 
 # 3rd week
 
-create the data set then build a model using LSTMs and RNN
-# 4th week
+create the data set then build a model using LSTMs and RNN imporve the deep neural network
+# 4th week 
 
 not yet
