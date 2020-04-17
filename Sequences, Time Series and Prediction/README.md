@@ -9,11 +9,11 @@ Create your own synthetic dataset
 Once you have your series, you’ll create a DNN to predict values for that series!
 
 
-# 3rd week
+## 3rd week
 
 create the data set then build a model using LSTMs and RNN imporve the deep neural network
 
-# 4th week 
+## 4th week 
 
 real-world prediction --  dataset from Jason Brownlee, author of the amazing MachineLearningMastery.com site and who has shared lots of datasets at https://github.com/jbrownlee/Datasets.
 dataset of daily minimum temperatures in the city of Melbourne, Australia measured from 1981 to 1990.
